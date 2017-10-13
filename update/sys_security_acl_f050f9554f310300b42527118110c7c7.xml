@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_105990_hello_wor_wantit</description>
+        <name>x_105990_hello_wor_wantit</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-10-13 07:26:52</sys_created_on>
+        <sys_id>f050f9554f310300b42527118110c7c7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_105990_hello_wor_wantit</sys_name>
+        <sys_package display_value="Hello World" source="x_105990_hello_wor">afcaddfc4f310300b42527118110c72f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hello World">afcaddfc4f310300b42527118110c72f</sys_scope>
+        <sys_update_name>sys_security_acl_f050f9554f310300b42527118110c7c7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-10-13 07:26:52</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
